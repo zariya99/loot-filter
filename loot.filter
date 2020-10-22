@@ -215,7 +215,7 @@ ItemDisplay[glg]: %ORANGE%Emerald
 ItemDisplay[glr]: %ORANGE%Ruby
 ItemDisplay[glb]: %ORANGE%Sapphire
 ItemDisplay[gly]: %ORANGE%Topaz
-ItemDisplay[skl]: %ORANGE%Skull
+ItemDisplay[skl]: %GREEN%Skull
 //Gems Perfect
 ItemDisplay[gpv]: %ORANGE%P %PURPLE%AMETHYST
 ItemDisplay[gpw]: %ORANGE%P %WHITE%DIAMOND
@@ -272,7 +272,7 @@ ItemDisplay[RARE (7cr OR 9cr OR crs OR 7ls) ETH !ID]: ETH %YELLOW%%NAME%
 ItemDisplay[RARE (7tk OR 7bk OR 9tk OR 9bk OR tkf OR bkf) !ETH !ID]: %YELLOW%%NAME%
 ItemDisplay[RARE (7tk OR 7bk OR 9tk OR 9bk OR tkf OR bkf) ETH !ID]: ETH %YELLOW%%NAME%
 
-ItemDisplay[ILVL>0 ILVL<34 NORM RARE !ID (ARMOR OR WEAPON)]: %NAME%
+ItemDisplay[ILVL>0 ILVL<34 NORM RARE !ID (ARMOR OR WEAPON)]: %NAME%c
 //RARES (Norm nonclass items hidden)
 ItemDisplay[RARE !ID]:
 
