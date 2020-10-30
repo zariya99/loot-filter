@@ -75,7 +75,15 @@ ItemDisplay[r28 OR r29 OR r33]: %GREEN%[%RUNENUM%] %PURPLE%»»» »»  »     %
 ItemDisplay[r30 OR r31]: %GREEN%[%RUNENUM%] %PURPLE%»»»» »»  »»    »     %ORANGE%%RUNENAME% %GOLD%[%RUNENUM%]%PURPLE%     «    ««  «« «««« %GREEN%[%RUNENUM%]
 
 //Gems
-
+ItemDisplay[yps]:
+ItemDisplay[tsc]:
+ItemDisplay[key]:
+ItemDisplay[gzv]:
+ItemDisplay[gly]:
+ItemDisplay[glb]:
+ItemDisplay[glg]:
+ItemDisplay[glr]:
+ItemDisplay[glw]:
 //Arrows and Bolts
 ItemDisplay[aqv CLVL>12]:
 ItemDisplay[aq2 NMAG CLVL>12]:
@@ -219,8 +227,8 @@ ItemDisplay[cm1 OR cm2 OR cm3]: %NAME% %GRAY%[%ILVL%]
 
 //Rings and amulets
 ItemDisplay[(rin OR amu) RARE !ID]: %TAN%»» %YELLOW%%NAME%%TAN% ««
-ItemDisplay[(rin OR amu) MAG ILVL>90]: %NAME% %WHITE%[%ILVL%]
-ItemDisplay[(rin OR amu) MAG]: %NAME% %GRAY%[%ILVL%]
+//ItemDisplay[(rin OR amu) MAG ILVL>90]: %NAME% %WHITE%[%ILVL%]
+//ItemDisplay[(rin OR amu) MAG]: %NAME% %GRAY%[%ILVL%]
 
 //Jewels
 ItemDisplay[jew MAG !ID]: %TAN%»%WHITE%» %BLUE%%NAME%%WHITE% «%TAN%«
